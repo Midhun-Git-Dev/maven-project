@@ -40,3 +40,7 @@ is automatically built and deployed to Apache Tomcat using Jenkins.
 - Implement Jenkins Pipeline (Jenkinsfile)
 - Add monitoring and notifications
 
+## ▶️ How to Run the Project
+```bash
+cd scripts
+./system_report.sh
