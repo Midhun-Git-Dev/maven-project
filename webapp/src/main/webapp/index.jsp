@@ -104,6 +104,7 @@
     <div class="content">
         <h1>Unlimited Movies, DevOps & CI/CD</h1>
         <h2>Build. Deploy. Automate. Repeat.</h2>
+        <h2>Builded By Mid-hxn07.</h2>
         <p>Ready to see a real CI/CD pipeline in action?</p>
 
         <div class="email-box">
